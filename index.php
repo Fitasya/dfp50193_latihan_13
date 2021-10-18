@@ -10,6 +10,7 @@
 
 <body>
     <h1>Borang Permohonan (A)</h1>
+    <p>validate guna HTML</p>
     <form action="semak.php" method="POST">
         <table>
             <tr>
@@ -26,6 +27,7 @@
     <hr>
 
     <h1>Borang Permohonan (B)</h1>
+    <p>validate guna JavaScript</p>
     <form action="semak.php" method="post" onsubmit="return semak();">
         <table>
             <tr>
@@ -61,6 +63,7 @@
     <hr>
 
     <h1>Borang Permohonan (C)</h1>
+    <p>validate guna PHP</p>
     <form action="semak.php" method="post">
         <table>
             <tr>
